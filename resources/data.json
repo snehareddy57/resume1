@@ -1,0 +1,23 @@
+{
+  "basics":{
+    "objective":"all are true"
+  },
+  "education":[
+  {
+
+    "degree":"B.Tech(computer science of engineering)",
+    "college":"DR. KV.SUBBAREDDYCOLLEGE OF ENGINEERING FOR WOMEN",
+    "data":["2015-19","75%"]
+},
+  {
+    "degree":"AP of intermediate board",
+    "college":"Adithya",
+    "data":["2013-15","89%"]
+  },
+  {
+    "degree":"ssc",
+    "college":"Nalanda high school",
+    "data":["2012-13","90%"]
+  }
+]
+}
