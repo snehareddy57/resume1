@@ -6,7 +6,7 @@ body{
   flex-direction:row;
 }
 .profile_card{
-  width:25%;
+  width:30%;
   background-color:#ddd;
   padding:2%;
   margin:2%;
